@@ -5,6 +5,11 @@ name = "pypi"
 
 [packages]
 update = "*"
+pipenv = "*"
+install = "*"
+django = "*"
+mysql-connector-python = "==8.0.26"
+djangorestframework = "*"
 
 [dev-packages]
 
